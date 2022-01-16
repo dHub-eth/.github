@@ -44,3 +44,6 @@ We use livepeer for live streaming and moralis to fetch NFT Related data with re
   * Moralis
   * Livepeer
 
+## Team
+* Abdul Mateen
+* Vijay Krishnavanshi
