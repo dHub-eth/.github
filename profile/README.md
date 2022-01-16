@@ -27,3 +27,20 @@ We use livepeer for live streaming and moralis to fetch NFT Related data with re
 * Direct Broadcast from the platform (right now we depend on tools like OBS for starting the live stream)
 * Social Interactions alongside the livestream - Like chats, games or collaboration tools.
 * Smart Contract for Token Gating
+
+## Code
+* Backend: https://github.com/dHub-eth/backend
+* Frontend: https://github.com/dHub-eth/frontend
+
+## Tech Stack
+* Frontend:
+  * Next.js
+  * Livepeer
+  * video.js
+  * web3.js
+* Backend:
+  * Node.js
+  * Express.js
+  * Moralis
+  * Livepeer
+
