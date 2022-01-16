@@ -1,2 +1,1 @@
-# dHub - ETH Global Hackathon Entry
-
+# README
