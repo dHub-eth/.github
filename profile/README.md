@@ -28,9 +28,6 @@ We use livepeer for live streaming and moralis to fetch NFT Related data with re
 * Social Interactions alongside the livestream - Like chats, games or collaboration tools.
 * Smart Contract for Token Gating
 
-## Initial Mock
-![Initial Mocks](https://raw.githubusercontent.com/dHub-eth/.github/main/profile/ETHGlobal.svg)
-
 ## Demo
 * https://dhub-eth.herokuapp.com/
 
